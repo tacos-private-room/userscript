@@ -1,5 +1,0 @@
-// ==UserScript==
-// @name           Greasy Fork test - validation fail because of the long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name long name
-// @description    A test of Greasy Fork import
-// ==/UserScript==
-

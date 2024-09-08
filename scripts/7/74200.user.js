@@ -1,7 +1,0 @@
-// ==UserScript==
-// @name          Supsuidi
-
-// ==/UserScript==
-
-
-				
